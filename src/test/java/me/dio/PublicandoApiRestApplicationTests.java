@@ -1,4 +1,4 @@
-package me.dio.publicando_api_rest;
+package me.dio;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

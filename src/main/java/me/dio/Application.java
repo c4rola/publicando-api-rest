@@ -1,4 +1,4 @@
-package me.dio.publicando_api_rest;
+package me.dio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
