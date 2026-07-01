@@ -37,3 +37,5 @@ User "1" *-- "1" Card : card
 User "1" *-- "0..*" Feature : features
 User "1" *-- "0..*" News : news
 ```
+
+**Swagger**: https://publicando-api-rest-prd.up.railway.app/swagger-ui/index.html
